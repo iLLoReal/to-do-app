@@ -1,0 +1,22 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "simple todo app from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLLoReal/to-do-app.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "iLLoReal",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/iLLoReal/to-do-app/issues"
+  },
+  "homepage": "https://github.com/iLLoReal/to-do-app#readme"
+}
